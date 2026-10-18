@@ -1,0 +1,25 @@
+C:\Users\Lenovo\Desktop\Aplicaciones Moviles\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\bin\Debug\net10.0\NorthWind.Validation.Entities.deps.json
+C:\Users\Lenovo\Desktop\Aplicaciones Moviles\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\bin\Debug\net10.0\NorthWind.Validation.Entities.dll
+C:\Users\Lenovo\Desktop\Aplicaciones Moviles\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\bin\Debug\net10.0\NorthWind.Validation.Entities.pdb
+C:\Users\Lenovo\Desktop\Aplicaciones Moviles\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Aplicaciones Moviles\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Aplicaciones Moviles\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Aplicaciones Moviles\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Aplicaciones Moviles\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Aplicaciones Moviles\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.dll
+C:\Users\Lenovo\Desktop\Aplicaciones Moviles\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\refint\NorthWind.Validation.Entities.dll
+C:\Users\Lenovo\Desktop\Aplicaciones Moviles\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.pdb
+C:\Users\Lenovo\Desktop\Aplicaciones Moviles\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\ref\NorthWind.Validation.Entities.dll
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\bin\Debug\net10.0\NorthWind.Validation.Entities.deps.json
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\bin\Debug\net10.0\NorthWind.Validation.Entities.dll
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\bin\Debug\net10.0\NorthWind.Validation.Entities.pdb
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.csproj.AssemblyReference.cache
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.AssemblyInfoInputs.cache
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.AssemblyInfo.cs
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.dll
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\refint\NorthWind.Validation.Entities.dll
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWind.Validation.Entities.pdb
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\ref\NorthWind.Validation.Entities.dll
+C:\Users\enriq\source\repos\NorthWind\NorthWind\1. Enterprise Business Rules\NorthWind.Validation.Entities\obj\Debug\net10.0\NorthWin.939C4A2C.Up2Date
